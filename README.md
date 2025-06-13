@@ -13,7 +13,7 @@
 **请勿滥用，合理使用**
 
 ## 加入QQ群获取最新下载,交流学习
-<img src="https://github.com/user-attachments/assets/29496235-54c8-4f24-aa54-6cc1d1a77f6f" width="240" alt="QQ群二维码">
+<img src="https://github.com/user-attachments/assets/bca81502-9c01-4f3b-92b9-e26c4524a142" width="240" alt="QQ群二维码">
 
 ### 支持 Windows、Mac系统,软件截图
 
