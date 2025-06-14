@@ -3,14 +3,14 @@
 ## 简介
 
 完全免费的 Cursor 助手工具，提供以下功能：
+- 无需注册免费使用Claude3.7和Gemini2.5Pro
+- 保持Pro试用不掉
 - 一键获取新额度
 - 自动满额度账号
-- 无需登录账号
+- 无需自己账号登录
 - 解决机器码问题
+- 无需注册流程
 
-## Releases发布版本是免费使用的,打开就能用,无须账号和域名
-
-**请勿滥用，合理使用**
 
 ## 加入QQ群获取最新下载,交流学习
 <img src="https://github.com/user-attachments/assets/29496235-54c8-4f24-aa54-6cc1d1a77f6f" width="240" alt="QQ群二维码">
