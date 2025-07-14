@@ -20,9 +20,3 @@
 ## 特别鸣谢
 
 本项目的开发过程中得到了众多大佬和社区成员的支持与帮助，在此特别感谢。
-
-## 支持项目
-
-如果您觉得这个项目对您有帮助，可以请我喝杯茶：
-
-<img src="https://github.com/user-attachments/assets/3fcf26b7-5af2-421d-8f48-57856686456e" width="300" alt="支付宝赞赏码"> <img src="https://github.com/user-attachments/assets/92d3cf12-0336-4a8d-a1e2-2c010e8945d2" width="300" alt="微信赞赏码">
