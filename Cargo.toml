@@ -17,3 +17,7 @@ is_elevated = "0.1.2" # For checking admin privileges
 directories = "5.0" # For APPDATA, LOCALAPPDATA paths
 [target.'cfg(windows)'.dependencies]
 winreg = "0.52"
+
+[[bin]]
+name = "cursor_reset_tool"
+path = "reset_machine.rs"
